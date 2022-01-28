@@ -1,11 +1,12 @@
-# New_Project
+# python_data_mistakes
 
-This template is adapted from (ericmjl/ds-project-organization.md
-) for "How to organize your Python data science project"
+LinkedIn Learning
+https://www.linkedin.com/learning/python-data-science-mistakes-to-avoid
+
 
 ## Why this project exists
 
-## How things are organized, 
+## How things are organized,
 
 ## Conventions used in the project
 
